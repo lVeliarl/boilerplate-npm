@@ -7,6 +7,7 @@
 	"author": "Veliar",
 	"description": "This package probably does something",
 	"keywords": ["node", "freecodecamp", "sample"],
+	"license": "MIT",
 	"scripts": {
 		"start": "node server.js"
 	},
