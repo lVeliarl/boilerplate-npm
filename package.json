@@ -2,12 +2,17 @@
 	"name": "fcc-learn-npm-package-json",
 	"version": "0.0.1",
 	"dependencies": {
+		"@freecodecamp/example": "1.1.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"author": "Veliar",
 	"description": "This package probably does something",
-	"keywords": ["node", "freecodecamp", "sample"],
+	"keywords": [
+		"node",
+		"freecodecamp",
+		"sample"
+	],
 	"license": "MIT",
 	"scripts": {
 		"start": "node server.js"
