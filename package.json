@@ -6,6 +6,7 @@
 	"main": "server.js",
 	"author": "Veliar",
 	"description": "This package probably does something",
+	"keywords": ["node", "freecodecamp", "sample"],
 	"scripts": {
 		"start": "node server.js"
 	},
